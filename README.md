@@ -36,3 +36,7 @@ A simple and responsive To-Do List application built using HTML, CSS, and JavaSc
   - Due dates and reminders
   - Dark mode support
   - Drag-and-drop task reordering
+
+## 📸 Screenshot
+
+![To-Do List App](to-do-list.png)
